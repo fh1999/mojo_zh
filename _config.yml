@@ -1,15 +1,15 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Mojo 中文文档
+longtitle:        Mojo 中文文档
+author:           方晗
+email:            fang_han@whu.edu.cn
 description: >
   Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
+url:              'https://fh1999.github.io'
 baseurl:          '/mojo_zh'
 rss:              RSS
 
